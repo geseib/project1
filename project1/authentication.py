@@ -13,3 +13,8 @@ def login(username, password):
         return False
 def logout():
     print 'You are now logged out.'
+
+def restart():
+    print "restart the system?"
+
+
