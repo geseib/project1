@@ -21,3 +21,6 @@ def cleanup():
     """this is a fake clean up function"""
     print "clean up the system"
 
+def workout():
+    print "run around the block right now"
+
