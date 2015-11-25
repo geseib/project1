@@ -17,4 +17,7 @@ def logout():
 def restart():
     print "restart the system?"
 
+def cleanup():
+    """this is a fake clean up function"""
+    print "clean up the system"
 
