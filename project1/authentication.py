@@ -11,16 +11,6 @@ def login(username, password):
     except IOError:
         print "I can't authenticate you."
         return False
-def logout():
-    print 'You are now logged out.'
 
-def restart():
-    print "restart the system?"
 
-def cleanup():
-    """this is a fake clean up function"""
-    print "clean up the system"
-
-def workout():
-    print "run around the block right now"
 
